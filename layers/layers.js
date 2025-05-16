@@ -105,7 +105,7 @@ var lyr_LineadirivaMaggio2025_7 = new ol.layer.Vector({
                 source:jsonSource_LineadirivaMaggio2025_7, 
                 style: style_LineadirivaMaggio2025_7,
                 popuplayertitle: 'Linea di riva Maggio 2025',
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/LineadirivaMaggio2025_7.png" /> Linea di riva Maggio 2025'
             });
 var format_AreadiespansionefoceTorrenteParise_8 = new ol.format.GeoJSON();
