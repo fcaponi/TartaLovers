@@ -38,8 +38,8 @@ var json_FasciaRunup10_6 = {
                 "scale": 0.0,
                 "deflines": 0.0,
                 "html_exp": "" 
-				+"<h1>Info Progetto Run Up Tartarughe</h1>"
-				+"<h2>Parametri meteomarini</h2>"
+				/*+"<h1>Info Progetto Run Up Tartarughe</h1>"*/
+				+"<h3>Parametri meteomarini</h3>"
 				+"<ul>"
 				+ "    <li><strong>Traversia:</strong> 165-330 (°N)</li>"
 				+ "    <li><strong>Altezza d’onda significativa:</strong> Hs = 3.50 m (da elaborazione statistica)</li>"
@@ -48,7 +48,7 @@ var json_FasciaRunup10_6 = {
 				+ "    <li><strong>Tempo di ritorno:</strong> Tr = 30 anni</li>"
 				+ "</ul>"
 				+ ""
-				+ "<h2>Parametri morfologici</h2>"
+				+ "<h3>Parametri morfologici</h3>"
 				+ "<p><strong>Pendenza media di spiaggia:</strong></p>"
 				+ "<ul>"
 				+ "    <li>Transetto 0-1 = 7.32%</li>"
@@ -57,41 +57,41 @@ var json_FasciaRunup10_6 = {
 				+ "    <li>Transetto 3-4 = 6.82%</li>"
 				+ "</ul>"
 				+ ""
-				+ "<h2>Runup</h2>"
+				+ "<h3>Runup</h3>"
 				+ "<p><em>Innalzamento massimo raggiunto dal moto ondoso sulla spiaggia rispetto al livello medio del mare</em></p>"
 				+ ""
 				+ "<table border='1' cellpadding='5' margin='0' style='border-collapse: collapse'>"
 				+ "    <thead>"
 				+ "        <tr>"
 				+ "            <th>Transetto</th>"
-				+ "            <th>Medio</th>"
-				+ "            <th>1/3</th>"
+				/*+ "            <th>Medio</th>"*/
+				/*+ "            <th>1/3</th>"*/
 				+ "            <th>1/10</th>"
 				+ "        </tr>"
 				+ "    </thead>"
 				+ "    <tbody>"
 				+ "        <tr>"
 				+ "            <td>0-1</td>"
-				+ "            <td>1.87 m s.l.m.</td>"
-				+ "            <td>2.90 m s.l.m.</td>"
+				/*+ "            <td>1.87 m s.l.m.</td>"*/
+				/*+ "            <td>2.90 m s.l.m.</td>"*/
 				+ "            <td>3.55 m s.l.m.</td>"
 				+ "        </tr>"
 				+ "        <tr>"
 				+ "            <td>1-2</td>"
-				+ "            <td>2.02 m s.l.m.</td>"
-				+ "            <td>3.15 m s.l.m.</td>"
+				/*+ "            <td>2.02 m s.l.m.</td>"*/
+				/*+ "            <td>3.15 m s.l.m.</td>"*/
 				+ "            <td>3.86 m s.l.m.</td>"
 				+ "        </tr>"
 				+ "        <tr>"
 				+ "            <td>2-3</td>"
-				+ "            <td>1.92 m s.l.m.</td>"
-				+ "            <td>2.98 m s.l.m.</td>"
+				/*+ "            <td>1.92 m s.l.m.</td>"*/
+				/*+ "            <td>2.98 m s.l.m.</td>"*/
 				+ "            <td>3.65 m s.l.m.</td>"
 				+ "        </tr>"
 				+ "        <tr>"
 				+ "            <td>3-4</td>"
-				+ "            <td>1.80 m s.l.m.</td>"
-				+ "            <td>2.77 m s.l.m.</td>"
+				/*+ "            <td>1.80 m s.l.m.</td>"*/
+				/*+ "            <td>2.77 m s.l.m.</td>"*/
 				+ "            <td>3.38 m s.l.m.</td>"
 				+ "        </tr>"
 				+ "    </tbody>"
