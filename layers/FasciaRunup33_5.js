@@ -85,8 +85,8 @@ var json_FasciaRunup33_5 = {
 				+ "        <tr>"
 				+ "            <td>2-3</td>"
 				/*+ "            <td>1.92 m s.l.m.</td>"*/
-				/*+ "            <td>2.98 m s.l.m.</td>"*/
-				+ "            <td>3.65 m s.l.m.</td>"
+				+ "            <td>2.98 m s.l.m.</td>"
+				/*+ "            <td>3.65 m s.l.m.</td>"*/
 				+ "        </tr>"
 				+ "        <tr>"
 				+ "            <td>3-4</td>"
